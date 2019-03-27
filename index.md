@@ -10,3 +10,13 @@ Tips for publishing markdown files:
 - Use relative paths to links; there is no need to link from the root, like `(../blob/master/docs/doc2)` - this did not work when I tested it
 - The syntax for links is `[text](link)`
 - Create folders to separate docs, but remember to add an `index.md` page - or you'll see a "page not found" error
+
+It appears that markdown doesn't have a `target="_blank"` feature so that links open in a different tab, so that's a bummer.
+
+I'm going to try using raw html and see if that works.
+
+Here is a link to <a href="http://www.google.com" target="_blank">Google</a>
+
+That appears to work - I won't know until I publish the page - the preview shows a link. But my markdown linter is complaining about inline html (markdownlint MD033)
+
+If it works I'll just have to ignore the warning if I really want certain links to open in a new tab. Or just use inline links and open them in new tabs as needed.
