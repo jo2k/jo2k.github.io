@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Home
 
 This is the index page in markdown. I'll be building this up with docs and notes.
