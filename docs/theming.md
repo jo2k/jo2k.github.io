@@ -1,5 +1,5 @@
 ---
-title: Theming
+title: Theming Jekyll
 description: Theming Page
 ---
 
