@@ -11,3 +11,5 @@ Tips for publishing markdown files:
 - The syntax for links is `[text](link)`
 - Create folders to separate docs, but remember to add an `index.md` page - or you'll see a "page not found" error
 - Markdown doesn't have a `target="_blank"` - use raw html to publish links and force them to open in a new tab. Markdownlint will complain with MD033 - just ignore the warning, it will be fine
+
+[VSCode Extensions](vscode)
