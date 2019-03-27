@@ -1,3 +1,8 @@
+---
+title: Theming
+description: Theming Page
+---
+
 # Theming
 
 I'm using the Jekyll Hacker theme for the site.
